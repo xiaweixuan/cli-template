@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fa6391f-0259-4aba-8b58-368fa0e4a55f" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1u9KF9kO74owbUM01g3KD5VPRCs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.15" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fa6391f-0259-4aba-8b58-368fa0e4a55f" name="默认的" comment="" />
+      <created>1624072260033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624072260033</updated>
+      <workItem from="1624072262284" duration="38787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624973495299">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="544" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1624973495299" />
+    <state x="371" y="204" width="498" height="463" key="#使用范围" timestamp="1624956077884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="371" y="204" width="498" height="463" key="#使用范围/0.0.1440.900@0.0.1440.900" timestamp="1624956077884" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1624963152257">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1624963152257" />
+    <state x="350" y="-834" width="702" height="588" key="find.popup" timestamp="1625130479283">
+      <screen x="-259" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="350" y="-834" width="702" height="588" key="find.popup/0.0.1440.900/-259.-1080.1920.1080@-259.-1080.1920.1080" timestamp="1625130479283" />
+    <state x="457" y="205" width="526" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1624977350446" />
+  </component>
+</project>
